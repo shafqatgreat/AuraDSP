@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+
+# Allow the specific folder and its contents
+!AuraDSP/
+!AuraDSP/**
+*.exe
+# Allow the README and .gitignore itself
+!README.md
+!.gitignore
+!1.AuraDSP.png
