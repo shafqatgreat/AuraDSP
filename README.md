@@ -1,6 +1,6 @@
 # AuraDSP | Professional Audio Restoration Suite
 
-![Main Interface](assets/1.AuraDSP.png)
+![Main Interface](1.AuraDSP.png)
 **AuraDSP** is a standalone, high-performance audio restoration workstation designed for professional-grade noise suppression and signal recovery. Engineered for broadcast, podcasting, and forensic audio applications, AuraDSP utilizes proprietary spectral subtraction algorithms to isolate voice transients from complex background environments.
 
 ---
